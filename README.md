@@ -3,7 +3,7 @@
 ### This is a list of my most recent projects spanning the last 6 months and under a year
 
 - #### Ecotrader (Web admin, Mobile - Android and iOS). Can be downloaded from both the Google Play Store and App Store.
-- #### Blockchain Cyphers [https:/blockchaincyphers.co]
+- #### Blockchain Cyphers [https://blockchaincyphers.co]
 - #### Continental Invest [https://continentalinvest.co]
 - #### I Got Talent [https://igottalent.co]
 - #### Selfie Queen Ghana [https://selfiequeengh.com]
