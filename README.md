@@ -8,6 +8,8 @@
 - #### I Got Talent [https://igottalent.co]
 - #### Selfie Queen Ghana [https://selfiequeengh.com]
 - #### Legit Cards - (Mobile - admin and users) - 90% completed.
-- #### Naira Payment (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores
+- #### Naira Payment (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores.
+
+### The UI and UX of all the mobile apps were researched and designed by me.
 
 #### There are some other projects of which I'm not permitted to share. I do believe the ones listed above will suffice to showcase what I do.
