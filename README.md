@@ -16,6 +16,7 @@
 
 Tech & tools I currently use: 
 - JavaScript
+- TypeScript
 - jQuery
 - PHP
 - HTML, CSS
@@ -23,11 +24,11 @@ Tech & tools I currently use:
 - MySQL
 - MongoDB
 - Product Design (Figma, Adobe XD)
-- React.js
+- ReactJS
 - React Native
 - Context API
-- Node.js
-- Express.js
+- NodeJS
+- ExpressJS
 - Firebase, Firestore
 - Github
 - Git
