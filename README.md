@@ -21,7 +21,10 @@ Tech & tools I currently use:
 - HTML, CSS
 - Bootstrap, Material UI, UI Kit
 - Product Design (Figma, Adobe XD)
-- React
-- Context API
+- React.js
 - React Native
+- Context API
+- Node.js
+- Express.js
+- Firebase, Firestore
 - Github
