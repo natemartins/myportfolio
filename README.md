@@ -30,3 +30,4 @@ Tech & tools I currently use:
 - Express.js
 - Firebase, Firestore
 - Github
+- Git
