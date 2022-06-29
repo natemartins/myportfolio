@@ -1,6 +1,6 @@
 # My Portfolio
 
-### This is a list of my most recent projects spanning the last 6 months and under a year
+### This is a list of my most recent projects
 
 - #### Ecotrader (Web admin, Mobile - Android and iOS). Can be downloaded from both the Google Play Store and App Store.
 - #### Blockchain Cyphers [https://blockchaincyphers.co]
