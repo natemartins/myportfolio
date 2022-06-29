@@ -13,3 +13,15 @@
 #### The UI and UX of all the mobile apps were researched and designed by me.
 
 #### There are some other projects of which I'm not permitted to share. I do believe the ones listed above will suffice to showcase what I do.
+
+Tech & tools I currently use: 
+- JavaScript
+- jQuery
+- PHP
+- HTML, CSS
+- Bootstrap, Material UI, UI Kit
+- Product Design (Figma, Adobe XD)
+- React
+- Context API
+- React Native
+- Github
