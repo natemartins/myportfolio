@@ -29,5 +29,6 @@ Tech & tools I currently use:
 - NodeJS
 - ExpressJS
 - Firebase, Firestore
+- Rest API
 - Github
 - Git
