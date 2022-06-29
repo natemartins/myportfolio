@@ -16,7 +16,6 @@
 
 Tech & tools I currently use: 
 - JavaScript
-- TypeScript
 - jQuery
 - PHP
 - HTML, CSS
