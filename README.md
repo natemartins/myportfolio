@@ -20,6 +20,8 @@ Tech & tools I currently use:
 - PHP
 - HTML, CSS
 - Bootstrap, Material UI, UI Kit
+- MySQL
+- MongoDB
 - Product Design (Figma, Adobe XD)
 - React.js
 - React Native
