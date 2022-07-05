@@ -15,7 +15,7 @@
 
 #### There are some other projects of which I'm not permitted to share. I do believe the ones listed above will suffice to showcase what I do.
 
-Tech & tools I currently use: 
+### Tech & tools I currently use: 
 - JavaScript
 - jQuery
 - PHP
@@ -33,3 +33,8 @@ Tech & tools I currently use:
 - Rest API
 - Github
 - Git
+
+### Languages spoken
+- English
+- French
+- West African Pidgin
