@@ -31,7 +31,6 @@
 - Bootstrap, Material UI, UI Kit, TailwindCSS
 - SQL
 - MongoDB
-- Product Design (Figma, Adobe XD)
 - ReactJS
 - VueJS
 - React Native
