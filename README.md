@@ -30,6 +30,8 @@
 - VueJS
 - React Native
 - Context API
+- Zustand
+- React Query
 - NodeJS
 - ExpressJS
 - Firebase, Firestore
