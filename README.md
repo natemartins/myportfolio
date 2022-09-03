@@ -8,7 +8,7 @@
 - #### I Got Talent - Preview [here](https://igottalent.co)
 - #### Mobile Point Of Sale (POS) system for an international oil company (Somayaf) based in Republic of Bénin and Togo.
 - #### Selfie Queen Ghana - Previe [here](https://selfiequeengh.com)
-- #### Legit Cards {A gift card and cryptocurrency trading platform} - (Mobile - admin and users) - Completed. Awaiting go ahead from the client to deploy to the stores. You can preview the user app [here](https://appetize.io/app/p6nirjl5sihhuylmslcx4esvuq?device=pixel4&osVersion=11.0&scale=100&deviceColor=black). Note that any operations done while previewing the app is not live but on the test server.
+- #### Legit Cards {A gift card and cryptocurrency trading platform} - (Mobile - admin and users) - Completed. Awaiting go ahead from the client to deploy to the stores. You can preview the user app [here](https://appetize.io/app/p6nirjl5sihhuylmslcx4esvuq?device=pixel4&osVersion=11.0&scale=100&deviceColor=black). Note that any operation done while previewing the app is not live but on the test server.
 - #### Naira Payment {A bills and utility payment platform} - (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores. **I DO NOT HAVE PERMISSION TO SHOW A PREVIEW OF THIS APP UNTIL IT IS LIVE**
 - #### Mavericks {An admin management software for the day-to-day running of a bakery service} - (Web admin, Mobile - Android and iOS) - In progress 70%. **I DO NOT HAVE PERMISSION TO SHOW A PREVIEW OF THIS APP UNTIL IT IS LIVE**
 
