@@ -3,14 +3,14 @@
 ### This is a list of my most recent projects
 
 - #### Ecotrader (Web admin, Mobile - Android and iOS). Can be downloaded from both the Google Play Store and App Store.
-- #### Blockchain Cyphers [https://blockchaincyphers.co]
-- #### Continental Invest [https://continentalinvest.co]
-- #### I Got Talent [https://igottalent.co]
+- #### Blockchain Cyphers - Preview [here](https://blockchaincyphers.co)
+- #### Continental Invest - Preview [here](https://continentalinvest.co)
+- #### I Got Talent - Preview [here](https://igottalent.co)
 - #### Mobile Point Of Sale (POS) system for an international oil company (Somayaf) based in Republic of Bénin and Togo.
-- #### Selfie Queen Ghana [https://selfiequeengh.com]
-- #### Legit Cards {A gift card and cryptocurrency trading platform} - (Mobile - admin and users) - Completed. Awaiting go ahead from the client to deploy to the stores.
-- #### Naira Payment {A bills and utility payment platform} - (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores.
-- #### Mavericks {An admin management software for the day-to-day running of a bakery service} - (API, Web admin, Mobile - Android and iOS) - In progress 70%
+- #### Selfie Queen Ghana - Previe [here](https://selfiequeengh.com)
+- #### Legit Cards {A gift card and cryptocurrency trading platform} - (Mobile - admin and users) - Completed. Awaiting go ahead from the client to deploy to the stores. You can preview the user app [here](https://appetize.io/app/p6nirjl5sihhuylmslcx4esvuq?device=pixel4&osVersion=11.0&scale=100&deviceColor=black). Note that any operations done while previewing the app is not live but on the test server.
+- #### Naira Payment {A bills and utility payment platform} - (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores. **I DO NOT HAVE PERMISSION TO SHOW A PREVIEW OF THIS APP UNTIL IT IS LIVE**
+- #### Mavericks {An admin management software for the day-to-day running of a bakery service} - (API, Web admin, Mobile - Android and iOS) - In progress 70%. **I DO NOT HAVE PERMISSION TO SHOW A PREVIEW OF THIS APP UNTIL IT IS LIVE**
 
 #### The UI and UX of all the mobile apps were researched and designed by yours truly.
 
