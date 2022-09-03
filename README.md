@@ -8,23 +8,26 @@
 - #### I Got Talent [https://igottalent.co]
 - #### Mobile Point Of Sale (POS) system for an international oil company (Somayaf) based in Republic of Bénin and Togo.
 - #### Selfie Queen Ghana [https://selfiequeengh.com]
-- #### Legit Cards - (Mobile - admin and users) - 90% completed.
-- #### Naira Payment (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores.
+- #### Legit Cards {A gift card and cryptocurrency trading platform} - (Mobile - admin and users) - Completed. Awaiting go ahead from the client to deploy to the stores.
+- #### Naira Payment {A bills and utility payment platform} - (Mobile - Android and iOS) - Completed. Awaiting go ahead from the client to deploy to the stores.
+- #### Mavericks {An admin management software for the day-to-day running of a bakery service} - (API, Web admin, Mobile - Android and iOS) - In progress 70%
 
-#### The UI and UX of all the mobile apps were researched and designed by me.
+#### The UI and UX of all the mobile apps were researched and designed by yours truly.
 
 #### There are some other projects of which I'm not permitted to share. I do believe the ones listed above will suffice to showcase what I do.
 
-### Tech & tools I currently use: 
+### Tech stack: 
 - JavaScript
+- TypeScript
 - jQuery
 - PHP
-- HTML, CSS
-- Bootstrap, Material UI, UI Kit
-- MySQL
+- HTML5, CSS3
+- Bootstrap, Material UI, UI Kit, TailwindCSS
+- SQL
 - MongoDB
 - Product Design (Figma, Adobe XD)
 - ReactJS
+- VueJS
 - React Native
 - Context API
 - NodeJS
